@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SBTS</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="submit">Submit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Login_URL">https://sbts2019.000webhostapp.com/app/login.php</string>
+    <string name="Absent_Students_URL">https://sbts2019.000webhostapp.com/app/absentStudentlist.php</string>
+    <string name="Location_Out_URL">https://sbts2019.000webhostapp.com/app/locationout.php</string>
+    <string name="Student_List_URL">https://sbts2019.000webhostapp.com/app/studentList.php</string>
+    <string name="Reset_Student_List_URL">https://sbts2019.000webhostapp.com/app/resetStudentList.php</string>
+    <string name="Attendee_URL">https://sbts2019.000webhostapp.com/app/attendee.php</string>
+    <string name="Upload_Profile_URL">https://sbts2019.000webhostapp.com/app/uploadprofile.php</string>
+    <string name="Parent_URL">https://sbts2019.000webhostapp.com/app/parent.php</string>
+    <string name="Upload_Profile_Parent_URL">https://sbts2019.000webhostapp.com/app/uploadprofileparent.php</string>
+    <string name="Reset_Password_URL">https://sbts2019.000webhostapp.com/app/resetpassword.php</string>
+    <string name="photo_Set_TEXT">Selected</string>
+    <string name="Mark_Present_URL">https://sbts2019.000webhostapp.com/app/markPresent.php</string>
+    <string name="Change_Password_URL">https://sbts2019.000webhostapp.com/app/changepassword.php</string>
+    <string name="Location_In_URL">https://sbts2019.000webhostapp.com/app/locationin.php</string>
+    <string name="Present_Students_URL">https://sbts2019.000webhostapp.com/app/presentStudentlist.php</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="date_of_birth_yyyy_mm_dd">Enter your date of birth (YYYY-MM-DD)</string>
+    <string name="select_your_gender">Select your gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_profile_photo">Select profile photo</string>
+    <string name="choose">choose</string>
+    <string name="alternate_mobile_no">Enter your alternate mobile number</string>
+    <string name="address_details">Address Details</string>
+    <string name="residential_address">Enter your residential address</string>
+    <string name="city">Enter the name of your city</string>
+    <string name="pin_code">Enter your pin-code</string>
+    <string name="student_details">Student Details</string>
+    <string name="id_no">Enter your childs ID Number</string>
+    <string name="name">Enter your childs name</string>
+</resources>
